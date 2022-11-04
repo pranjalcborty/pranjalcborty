@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Pranjal!
+- 👀 I’m interested in building resilient software systems (preferably backend) ...
+- 🌱 I’m currently working on memory related system issues (particularly in resource constrained systems) and how we can anticipate such an issue for 1) better logging 2) better tracing 3) better profiling and, (maybe) 4) better OOM! ...
+- 📫 Hit me up on LinkedIn : https://www.linkedin.com/in/pcborty  ...
+
+<!---
+pranjalcborty/pranjalcborty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
