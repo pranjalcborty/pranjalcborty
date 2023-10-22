@@ -7,7 +7,7 @@
 - 👋 Hi, I’m Pranjal! Born in Bangladesh 🇧🇩, just finished my Master's from Brock 🇨🇦.
 - 👀 I’m interested in building resilient software systems (preferably backend).
 - ✨ I have worked with Java for 10+ years (4+ years professionally). Also, did numerous personal and academic projects with Python.
-- 🌱 I have worked with a major telecommunications networking equipment company with their memory related system issues, and tried to figure out how we can anticipate such an issue for 1) better logging 2) better tracing 3) better profiling and, (maybe) 4) better OOM!
+- 🌱 I have worked with a major telecommunications networking equipment company in Canada, with their memory related system issues, and tried to figure out how we can anticipate such an issue for 1) better logging 2) better tracing 3) better profiling and, (maybe) 4) better OOM.
 - 📫 Send me an email at pcborty@outlook.com or, hit me up on LinkedIn : https://www.linkedin.com/in/pcborty 
 
 <!---
