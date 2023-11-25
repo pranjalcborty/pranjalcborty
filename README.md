@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,js,spring,hibernate,tensorflow,kafka,linux,aws,git,docker,jenkins,gradle,prometheus,vim" />
+    <img src="https://skillicons.dev/icons?i=java,python,ts,spring,hibernate,tensorflow,kafka,react,aws,git,docker,jenkins,gradle,prometheus,vim" />
   </a>
 </p>
 
