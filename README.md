@@ -4,10 +4,9 @@
   </a>
 </p>
 
-- 👋 Hi, I’m Pranjal! Born in Bangladesh 🇧🇩, just finished my Master's from Brock 🇨🇦.
 - 👀 I’m interested in building resilient software systems.
 - ✨ I have worked with Java for 10+ years (4+ years professionally). Also, did numerous personal and academic projects with Python.
-- 🌱 I have worked with a major telecommunications networking equipment company in Canada, with their memory related system issues, and tried to figure out how we can anticipate such an issue for better logging, better tracing, better profiling, and better OOM management.
+- 🌱 I am working as a System Analyst at the Brock University Library. I have worked with a major telecommunications networking equipment company in Canada, with their memory related system issues, and tried to figure out how we can anticipate such an issue for better logging, better tracing, better profiling, and better OOM management.
 - 📫 Send me an email at pranjalchakraborty@gmail.com or, hit me up on LinkedIn : https://www.linkedin.com/in/pcborty 
 
 <!---
